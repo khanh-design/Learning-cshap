@@ -1,0 +1,7 @@
+D:\Hoc_C_shap_va_Restful\Example1\Example1\bin\Debug\Example1.exe.config
+D:\Hoc_C_shap_va_Restful\Example1\Example1\bin\Debug\Example1.exe
+D:\Hoc_C_shap_va_Restful\Example1\Example1\bin\Debug\Example1.pdb
+D:\Hoc_C_shap_va_Restful\Example1\Example1\obj\Debug\Example1.csproj.AssemblyReference.cache
+D:\Hoc_C_shap_va_Restful\Example1\Example1\obj\Debug\Example1.csproj.CoreCompileInputs.cache
+D:\Hoc_C_shap_va_Restful\Example1\Example1\obj\Debug\Example1.exe
+D:\Hoc_C_shap_va_Restful\Example1\Example1\obj\Debug\Example1.pdb

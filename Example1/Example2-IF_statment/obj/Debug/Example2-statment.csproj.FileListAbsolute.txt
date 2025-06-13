@@ -1,0 +1,2 @@
+D:\Hoc_C_shap_va_Restful\Example1\Example2-IF_statment\obj\Debug\Example2-statment.csproj.AssemblyReference.cache
+D:\Hoc_C_shap_va_Restful\Example1\Example2-IF_statment\obj\Debug\Example2-statment.csproj.CoreCompileInputs.cache

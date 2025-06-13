@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hoc_C_shap_va_Restful\\Example1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{896A4C8E-133F-4B26-B72C-051AE450D308}|Example3-String\\Example3-String.csproj|d:\\hoc_c_shap_va_restful\\example1\\example3-string\\program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{896A4C8E-133F-4B26-B72C-051AE450D308}|Example3-String\\Example3-String.csproj|solutionrelative:example3-string\\program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896A4C8E-133F-4B26-B72C-051AE450D308}|Example3-String\\Example3-String.csproj|d:\\hoc_c_shap_va_restful\\example1\\example3-string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{896A4C8E-133F-4B26-B72C-051AE450D308}|Example3-String\\Example3-String.csproj|solutionrelative:example3-string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program2.cs",
+              "DocumentMoniker": "D:\\Hoc_C_shap_va_Restful\\Example1\\Example3-String\\Program2.cs",
+              "RelativeDocumentMoniker": "Example3-String\\Program2.cs",
+              "ToolTip": "D:\\Hoc_C_shap_va_Restful\\Example1\\Example3-String\\Program2.cs",
+              "RelativeToolTip": "Example3-String\\Program2.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T05:14:16.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hoc_C_shap_va_Restful\\Example1\\Example3-String\\Program.cs",
+              "RelativeDocumentMoniker": "Example3-String\\Program.cs",
+              "ToolTip": "D:\\Hoc_C_shap_va_Restful\\Example1\\Example3-String\\Program.cs",
+              "RelativeToolTip": "Example3-String\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T05:01:00.795Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
