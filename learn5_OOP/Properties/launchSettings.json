@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "learn5_OOP": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Learn4_Exception_Handling": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

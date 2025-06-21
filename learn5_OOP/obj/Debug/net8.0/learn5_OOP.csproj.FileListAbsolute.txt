@@ -1,0 +1,4 @@
+D:\Learning_CShap\learn5_OOP\obj\Debug\net8.0\learn5_OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning_CShap\learn5_OOP\obj\Debug\net8.0\learn5_OOP.AssemblyInfoInputs.cache
+D:\Learning_CShap\learn5_OOP\obj\Debug\net8.0\learn5_OOP.AssemblyInfo.cs
+D:\Learning_CShap\learn5_OOP\obj\Debug\net8.0\learn5_OOP.csproj.CoreCompileInputs.cache
